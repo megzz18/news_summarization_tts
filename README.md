@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+HEAD
 # news_summarization_tts
-=======
+
 # News Summarization & Text-to-Speech (TTS) App
 
 ##  Project Overview
